@@ -2,7 +2,7 @@ const express = require('express')
 const mongoose = require('mongoose')
 const cors = require("cors")
 
-const url = "mongodb://localhost:27017/ecom"
+const url = "mongodb+srv://sanjaykumaryadav0227_db_user:60ds8dNz3GUGz4T6@cluster0.k0kxovl.mongodb.net/ecom"
 
 const port = 8080
 
